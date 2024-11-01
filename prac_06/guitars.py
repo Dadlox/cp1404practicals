@@ -2,7 +2,7 @@
 Code: guitars.py
 Coder: Hein Htet
 Start: 11:34
-End:
+End: 1:30
 """
 from Codes.Practical.Week6.prac_06.guitar import Guitar
 
